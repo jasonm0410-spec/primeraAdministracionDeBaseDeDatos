@@ -7,4 +7,4 @@ Este proyecto consiste en el desarrollo de una base de datos para una zapatería
 
 El objetivo de este proyecto es aplicar los conocimientos sobre la creación de tablas, inserción de datos y relaciones entre tablas en una base de datos relacional.
 
-¡Gracias por visitar mi repositorio!✨
+¡Gracias por visitar mi repositorio!✨ 
